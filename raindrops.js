@@ -9,7 +9,6 @@ if (a % 3 == 0) {
 } else if (a % 7 == 0) {
     result = "Plong";
 } else {
-    toString(a)
     result = a
 }
 console.log(result)
